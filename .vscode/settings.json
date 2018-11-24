@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\karem\\.platformio\\penv\\Scripts;C:\\Users\\karem\\.platformio\\penv;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\nodejs\\;C:\\Users\\karem\\AppData\\Local\\Programs\\Python\\Python37\\Scripts\\;C:\\Users\\karem\\AppData\\Local\\Programs\\Python\\Python37\\;C:\\Users\\karem\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\karem\\AppData\\Roaming\\npm;;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\nodejs\\;C:\\Users\\karem\\AppData\\Local\\Programs\\Python\\Python37\\Scripts\\;C:\\Users\\karem\\AppData\\Local\\Programs\\Python\\Python37\\;C:\\Users\\karem\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\karem\\AppData\\Roaming\\npm;",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "files.associations": {
+        "cstdio": "cpp"
+    }
+}
